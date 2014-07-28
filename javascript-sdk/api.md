@@ -2,6 +2,7 @@
 
 ### DUOSHUO.API.ajax(method, apiPath, data, successCallback, errorCallback)
   *例子*
+
     // 在已经定义var duoshuoQuery，并加载了http://static.duoshuo.com/embed.js 的情况下
     var data = {thread_key : 123};
     var successCallback = function(json){
