@@ -1,5 +1,5 @@
 ###**接口名称**
-/threads/counts 
+/threads/listPosts 
 
 ###**接口说明**
 获得当前文章的评论。
